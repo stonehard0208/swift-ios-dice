@@ -1,2 +1,2 @@
 # Dicee
-![Image](./random dice app.jpg)
+![Image](./random_dice_app.jpg)
